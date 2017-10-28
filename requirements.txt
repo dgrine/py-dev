@@ -2,3 +2,4 @@ testfixtures
 flask
 flask-triangle
 python-dateutil
+matplotlib
