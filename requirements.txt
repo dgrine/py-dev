@@ -3,3 +3,4 @@ flask
 flask-triangle
 python-dateutil
 matplotlib
+unicodecsv
