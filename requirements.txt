@@ -4,3 +4,4 @@ flask-triangle
 python-dateutil
 matplotlib
 unicodecsv
+beautifulsoup4
